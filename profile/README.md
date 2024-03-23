@@ -2,15 +2,13 @@
 
 **Hobby Linux. Make More.**
 
-Hobby Linux is a tiny GNU/Linux distribution that is designed to be simple and functional for you to focus on your projects and hobbies.
+⚠️ As of March 2024, Hobby Linux is in a **pre-alpha** state. Tools found in the repos may hurt you so do not use on production systems!
 
-⚠️ As of March 2024, Hobby Linux is in a **pre-alpha** state. Any tools found in the repos will likely hurt you so do not use them on production systems!
+Hobby Linux is a tiny GNU/Linux distribution that is designed to be simple and functional. It is a passion project of [Egee](https://egee.xyz/)'s. After using Linux for many years, he became jaded and decided to start his own Linux distribution (as one does).
 
-Hobby Linux is a passion project of [Egee](https://egee.xyz/)'s. After using Linux for many years, he became jaded with the state of Linux and decided to start his own Linux distribution (as one does).
+The goal of Hobby Linux is to build a small Linux operating system for hobbyists complete with custom tooling and a user experience focused on maximizing productivity whilst minimizing inefficiencies in the workflow.
 
-The goal of Hobby Linux is to provide a small installed GNU/Linux operating system with custom tools and user experience focused on producitivity and minimizing inefficiencies in the workflow.
-
-The development and philosphy of Hobby Linux largely follows practices established by [Agile](https://en.wikipedia.org/wiki/Agile_software_development#Agile_software_development_values) and [Lean](https://en.wikipedia.org/wiki/Lean_manufacturing#Key_principles_and_waste).
+The development philosophy of Hobby Linux is largely based on practices established by [Agile](https://en.wikipedia.org/wiki/Agile_software_development#Agile_software_development_values) and [Lean](https://en.wikipedia.org/wiki/Lean_manufacturing#Key_principles_and_waste).
 
 You can follow the progress of Hobby Linux here:
 
