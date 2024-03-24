@@ -12,8 +12,8 @@ The development philosophy of Hobby Linux is largely based on practices establis
 
 You can follow the progress of Hobby Linux here:
 
-- Egee's YouTube Channel: https://www.youtube.com/@Egeexyz
 - Hobby Shop Discord: https://discord.com/servers/egee-s-hobby-shop-183740337976508416
+- Egee's YouTube Channel: https://www.youtube.com/@Egeexyz
 - Here on GitHub: https://github.com/Hobby-Linux
 - On Patreon: https://www.patreon.com/HobbyLinux
 
